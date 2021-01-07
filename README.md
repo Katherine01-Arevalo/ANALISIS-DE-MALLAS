@@ -36,6 +36,7 @@
 
 
 ERROR 
+
 eI%=|valor teorico-valorcalculado|/(valor teorico )*100
 
 eI_1%=|11.45-11.50|/( 11.45)*100=0.4%
