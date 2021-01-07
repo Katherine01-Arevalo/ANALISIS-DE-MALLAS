@@ -5,6 +5,9 @@
 
 **3.DIAGRAMAS**
 
+![circuito](https://github.com/Katherine01-Arevalo/ANALISIS-DE-MALLAS/blob/main/img/circuito%20mallas.png)
+
+
 **4.LISTA DE COMPONENTES**
 
 |Cantidad | Material o Equipo|
@@ -22,6 +25,8 @@
 **5.EXPLICACIÓN**
 
 **6.APORTACIONES**
+
+![simulacion](https://github.com/Katherine01-Arevalo/ANALISIS-DE-MALLAS/blob/main/img/simulacion-malla.png)
 
 | MALLA | RESULTADO ANALÍTICO | RESULTADO EXPERIMENTAL |
 | :---         |     :---:      |          ---: |
