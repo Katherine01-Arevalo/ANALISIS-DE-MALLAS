@@ -1,7 +1,13 @@
 # ANALISIS-DE-MALLAS
 **1.OBJETIVOS**
 
+•	Orientar al estudiante en el análisis de mallas de circuitos eléctricos.
+•	Contrastar los resultados teóricos y experimentales del análisis de malla.
+•	Generar los conocimientos y aptitudes para analizar circuitos eléctricos. 
+
 **2. MARCO TEÓRICO**
+
+![Marco_Teorico](https://github.com/Katherine01-Arevalo/ANALISIS-DE-MALLAS/blob/main/img/Marco_Teorico_Lab2.jpg)
 
 **3.DIAGRAMAS**
 
