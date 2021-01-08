@@ -42,25 +42,26 @@
 | 2            | 2.847mA   | 2.85mA |
 | 3            | 0.4881mA | 0.49mA |
 
+**7.Manual de Usuario**
 
-ERROR 
+**8. Prerrequisitos** 
 
-eI%=|valor teorico-valorcalculado|/(valor teorico )*100
+Al instalar 
 
-eI_1%=|11.45-11.50|/( 11.45)*100=0.4%
+-Se finaliza la instalación dar clic derecho sobre el   icono, luego en "propiedades", luego en la pestaña "compatibilidad", marcar la casilla  donde indica "Ejecutar este  programa como administrador", dar clic en aplicar y luego en aceptar si no se realiza ese paso no cargará ninguna librería. 
 
-eI_2%=|2.847-2.85|/( 2.847)*100=0.1%
+-Al instante de generar la simulación tener en cuenta la unidad de media  para el uso del amperímetro
 
-eI_3%=|0.4881-0.49|/( 0.4881)*100=0.3%
+-Verificar que el circuito se encuentre bien conectado caso contrario  se generara datos erróneos
 
-**7.CONCLUSIONES**
+**8.CONCLUSIONES**
 
 Se llega a la conclusión de  que la cantidad de corrientes del circuito depende de las mallas que tenga el mismo ,mediante la ley de voltaje de Kirchoff  facilita  analizar las mallas que tiene el circuito en estudio, se llegó a obtener un sistema de ecuaciones el cual arrojo el valor de cada corriente en dicha malla.
 
 De manera teórica y práctica se llega a verificar que el análisis de mallas facilita el estudio del circuito propuesto se  observa un mínimo error  el cual se da por la cantidad de decimales que se maneja.
 
 
-**8.BIBLIOGRAFIA**
+**9.BIBLIOGRAFIA**
 
 -Alulema, D. (2020) Práctica No. 2 Análisis de Mallas. Recuperado de: https://classroom.google.com/c/MTcyOTU5MzQ3MDgw/m/MTk1NTU3MTAxMTAz/details
 
