@@ -40,16 +40,16 @@ Y de la ley de Ohm.
 
 En la primera malla tenemos la fuente de 18 V., un resistor de 820 Ohm y otro de 1kOhm. El voltaje en la primera resistencia va a ser igual al producto de su resistencia por la Intensidad 1. El voltaje en la resistencia dos va a ser igual al producto de 1kOhm, que es su resistencia por la diferencia entre la Intensidad 1 y la Intensidad 2. Esta resta se da debido a que la Intensidad 2 fluye de manera opuesta a la Intensidad 1. La suma de estos voltajes en cada resistencia va a ser igual a 18V de la fuente.
 
-En la segunda malla no tenemos fuentes de voltaje pero cada resistencia si va a tener un voltaje que fluya por ella. En la resistencia de 1kOhm hay un voltaje igual a la multiplicación de su resistencia por la diferencia de la Intensidad 2 menos la Intensidad 1. En este caso la Intensidad 2 es predominante, por ello se resta la corriente que fluye en dirección opuesta. El voltaje en la resistencia 2 va a ser igual a 1.2 kOhm por la Intensidad 2. El ultimo voltaje en esta malla es el que esta en la resistencia de 2.2 kOhm. Este es igual a el producto de 2.2 kOhm por la diferencia entre la Intensidad 2 menos la Intensidad 3. La Intensidad 3 esta opuesta a la Intensidad 2 en este resistor. La suma de todos estos voltajes debe ser igual a cero.  
+En la segunda malla no tenemos fuentes de voltaje pero cada resistencia si va a tener un voltaje que fluya por ella. En la resistencia de 1kOhm hay un voltaje igual a la multiplicación de su resistencia por la diferencia de la Intensidad 2 menos la Intensidad 1. En este caso la Intensidad 2 es predominante, por ello se resta la corriente que fluye en dirección opuesta. El voltaje en la resistencia 2 va a ser igual a 1.2 kOhm por la Intensidad 2. El último voltaje en esta malla es el que esta en la resistencia de 2.2 kOhm. Este es igual a el producto de 2.2 kOhm por la diferencia entre la Intensidad 2 menos la Intensidad 3. La Intensidad 3 esta opuesta a la Intensidad 2 en este resistor. La suma de todos estos voltajes debe ser igual a cero.  
 
-La tercera malla tiene una fuente de voltaje de 5V. El voltaje en la resistencia de 2.2kOhm va a ser igual a la multiplicacion de su resistencia por la resta de Intensidad 3 menos Intensidad 2, aqui Intensidad 3 es preponderante por lo cual Intensidad 2 fluye contraria y se la resta. El voltaje de la resistencia de 390 Ohm va a ser el producto de esta con la Intensidad 3. La suma de estos tres voltajes debe ser giaul a cero. 
+La tercera malla tiene una fuente de voltaje de 5V. El voltaje en la resistencia de 2.2kOhm va a ser igual a la multiplicación de su resistencia por la resta de Intensidad 3 menos Intensidad 2, aqui Intensidad 3 es preponderante por lo cual Intensidad 2 fluye contraria y se la resta. El voltaje de la resistencia de 390 Ohm va a ser el producto de esta con la Intensidad 3. La suma de estos tres voltajes debe ser igual a cero. 
 
-De cada malla se obtuvo una ecuacion. Se forma un sistema de ecuaciones que hay que resolverlo para determinar los valores de la intensidad de cada malla. 
+De cada malla se obtuvo una ecuación. Se forma un sistema de ecuaciones que hay que resolverlo para determinar los valores de la intensidad de cada malla. 
 
 
 PRÁCTICA
 
-Haciendo uso del Software Proteus se construye un circuito como el propuesto y se coloca los amperimetros dentro de cada malla, en serie. Se necesita una placa de pruebas, 2 fuentes de voltaje de 18V y 5V cada una, 5 resistores (0.820, 1, 1.2, 2.2, 0.390)kOhm. Y 3 multímetros o amperímetros, uno para cada malla. De esta manera se puede medir la intensidad de corriente fluyendo en cada malla. 
+Haciendo uso del Software Proteus se construye un circuito como el propuesto y se coloca los amperimetros dentro de cada malla, en serie. Se necesita una placa de pruebas, 2 fuentes de voltaje de 18V y 5V cada una, 5 resistores (0.820, 1, 1.2, 2.2, 0.390) kOhm. Y 3 multímetros o amperímetros, uno para cada malla. De esta manera se puede medir la intensidad de corriente fluyendo en cada malla. 
 
 **6.APORTACIONES**
 
