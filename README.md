@@ -55,6 +55,11 @@ eI_3%=|0.4881-0.49|/( 0.4881)*100=0.3%
 
 **7.CONCLUSIONES**
 
+Se llega a la conclusión de  que la cantidad de corrientes del circuito depende de las mallas que tenga el mismo ,mediante la ley de voltaje de Kirchoff  facilita  analizar las mallas que tiene el circuito en estudio, se llegó a obtener un sistema de ecuaciones el cual arrojo el valor de cada corriente en dicha malla.
+
+De manera teórica y práctica se llega a verificar que el análisis de mallas facilita el estudio del circuito propuesto se  observa un mínimo error  el cual se da por la cantidad de decimales que se maneja.
+
+
 **8.BIBLIOGRAFIA**
 
 -Alulema, D. (2020) Práctica No. 2 Análisis de Mallas. Recuperado de: https://classroom.google.com/c/MTcyOTU5MzQ3MDgw/m/MTk1NTU3MTAxMTAz/details
@@ -66,5 +71,7 @@ eI_3%=|0.4881-0.49|/( 0.4881)*100=0.3%
 -Universidad Distrital Francisco José de Caldas. (s.f.) Circuitos Mediante Análisis de Mallas. Universidad Distrital Francisco José de Caldas. Recuperado de: https://www.studocu.com/co/document/universidad-distrital-francisco-jose-de-caldas/circuitos-i/practica/laboratorio-6/4966522/view
 
 -García, A. (2013) Ley de los voltajes de Kirchhoff: Método de Mallas. Panamahitek. Recuperado de: http://panamahitek.com/ley-de-los-voltajes-de-kirchhoff-metodo-de-mallas/#:~:text=En%20un%20circuito%20el%C3%A9ctrico%2C%20una,formadas%20por%204%20caminos%20cerrados.&text=Si%20multiplicamos%20las%20corrientes%20de,el%20total%20debe%20ser%20cero.
+
+-Calculadora de Matrices. (s. f.). matrixcalc. Recuperado 8 de enero de 2021, de https://matrixcalc.org/es/
 
 **9.ANEXOS**
